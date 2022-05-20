@@ -1,0 +1,147 @@
+# depslib dependency file v1.0
+1641485377 source:c:\users\crist\code blocks\graficul functiei\main.cpp
+	"draw_function_graph.h"
+	"draw_graph_buttons.h"
+	"structs.h"
+	"read_function.h"
+	"interaction.h"
+	"start_page.h"
+	"read_function_pageII.h"
+	"working_with_files.h"
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	<stdlib.h>
+	<cstring>
+	<math.h>
+	<unistd.h>
+	<MMsystem.h>
+
+1639664684 c:\users\crist\code blocks\graficul functiei\math_logic.h
+
+1640684852 source:c:\users\crist\code blocks\graficul functiei\math_logic.cpp
+	<iostream>
+	<math.h>
+	"define.h"
+
+1640263242 c:\users\crist\code blocks\graficul functiei\define.h
+
+1638881347 c:\users\crist\code blocks\graficul functiei\function.h
+	"define.h"
+
+1640263387 c:\users\crist\code blocks\graficul functiei\structs.h
+	"define.h"
+
+1640958736 c:\users\crist\code blocks\graficul functiei\read_function.h
+	"define.h"
+	"structs.h"
+
+1641985074 source:c:\users\crist\code blocks\graficul functiei\read_function.cpp
+	"define.h"
+	"math_logic.h"
+	"structs.h"
+	<stdlib.h>
+	<cstring>
+	<math.h>
+	<iostream>
+
+1638884488 c:\users\crist\code blocks\graficul functiei\translate.h
+	"structs.h"
+
+1638884692 c:\users\crist\code blocks\graficul functiei\draw_graph.h
+	"structs.h"
+
+1641483878 source:c:\users\crist\code blocks\graficul functiei\interaction.cpp
+	"translate_point.h"
+	"draw_graph_buttons.h"
+	"structs.h"
+	<graphics.h>
+	<winbgim.h>
+
+1639913225 c:\users\crist\code blocks\graficul functiei\interaction.h
+	"structs.h"
+
+1641478743 source:c:\users\crist\code blocks\graficul functiei\translate_point.cpp
+	"structs.h"
+
+1638888088 c:\users\crist\code blocks\graficul functiei\translate_point.h
+	"structs.h"
+
+1639657546 c:\users\crist\code blocks\graficul functiei\draw_function_graph.h
+	"structs.h"
+
+1640959162 source:c:\users\crist\code blocks\graficul functiei\draw_function_graph.cpp
+	"structs.h"
+	"read_function.h"
+	"translate_point.h"
+	"define.h"
+	<graphics.h>
+	<winbgim.h>
+	<iostream>
+	<stdio.h>
+	<math.h>
+
+1639161418 c:\users\crist\code blocks\graficul functiei\read_function_page.h
+	"structs.h"
+
+1640279364 c:\users\crist\code blocks\graficul functiei\read_function_pageii.h
+	"structs.h"
+
+1642005544 source:c:\users\crist\code blocks\graficul functiei\read_function_pageii.cpp
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	<string.h>
+	<iostream>
+	"structs.h"
+	"working_with_files.h"
+
+1639580056 c:\users\crist\code blocks\graficul functiei\graph_buttons.h
+	"structs.h"
+
+1642004638 source:c:\users\crist\code blocks\graficul functiei\draw_graph_buttons.cpp
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	<iostream>
+	"structs.h"
+	"read_function_pageII.h"
+	"draw_function_graph.h"
+
+1640197741 c:\users\crist\code blocks\graficul functiei\draw_graph_buttons.h
+	"structs.h"
+
+1640200529 c:\users\crist\code blocks\graficul functiei\start_pagei.h
+
+1640276184 c:\users\crist\code blocks\graficul functiei\start_page.h
+
+1641563772 source:c:\users\crist\code blocks\graficul functiei\start_page.cpp
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	<string.h>
+	"structs.h"
+	"read_function_pageII.h"
+	"working_with_files.h"
+	"color_picker_page.h"
+
+1640615659 c:\users\crist\code blocks\graficul functiei\wr_files.h
+
+1640619915 c:\users\crist\code blocks\graficul functiei\working_with_files.h
+
+1640703337 source:c:\users\crist\code blocks\graficul functiei\working_with_files.cpp
+	<string.h>
+	<iostream>
+
+1640696764 c:\users\crist\code blocks\graficul functiei\color_picker_page.h
+
+1641485729 source:c:\users\crist\code blocks\graficul functiei\color_picker_page.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<stdio.h>
+	"structs.h"
+	"read_function_pageII.h"
+	"working_with_files.h"
+
